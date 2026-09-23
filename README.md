@@ -11,8 +11,8 @@ El propósito de este repositorio es monitorear el comportamiento de gasto mensu
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-* **Análisis de Datos:** Python / SQL / Excel *(edita según las herramientas que usaste)*
-* **Visualización:** Power BI / Tableau / Matplotlib *(edita según la herramienta utilizada)*
+* **Análisis de Datos:** Excel / Power Query
+* **Visualización:** Power BI
 * **Estructura de Datos:** Modelado dimensional de transacciones y categorías.
 
 ---
