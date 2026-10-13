@@ -79,7 +79,7 @@ Puedo ayudarte a:
 
 ## Contacto
 - GitHub: https://github.com/eriecua
-- LinkedIn: (agrega tu perfil aquí)
+- LinkedIn: www.linkedin.com/in/erickjoelmoreno
 
 
 ## Licencia
